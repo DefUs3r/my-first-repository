@@ -5,7 +5,7 @@ my first repository (itws)
 //#include<life.h>
 //int birth()
 //{
-//	printf("Hello World");
+//	printf("Hello World I am born");
 //	return 0;
 //}
 
